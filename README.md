@@ -1,6 +1,6 @@
 [![PALS0039 Logo](https://www.phon.ucl.ac.uk/courses/pals0039/images/pals0039logo.png)](https://www.phon.ucl.ac.uk/courses/pals0039/)
 
-These pages contain learning resources and laboratory exercises for the module Introduction to Deep Learning for Speech and Language Processing, Division of PSychology and Language Sciences, University College London.
+These pages contain learning resources and laboratory exercises for the module: Introduction to Deep Learning for Speech and Language Processing, delivered by Division of Psychology and Language Sciences, University College London.
 
 # Tutorials
 
