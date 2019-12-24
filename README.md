@@ -39,7 +39,7 @@ These pages contain learning resources and laboratory exercises for the module I
 
 To open one of these notebooks in Colaboratory or Binder, 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhuckvale/pals0039/master)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mhuckvale/pals0039/master)
 
