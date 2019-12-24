@@ -12,7 +12,7 @@ These pages contain learning resources and laboratory exercises for the module: 
 
 # Exercises
 
-* Exercise 1.1 - Python language exercises
+* [Exercise 1.1](https://github.com/mhuckvale/pals0039/blob/master/Exercise_1_1.ipynb) - Python language exercises
 * Exercise 1.2 - Numpy exercises
 * Exercise 1.3 - Matplotlib exercises
 * Exercise 2.1 - Pandas exercises
