@@ -1,10 +1,6 @@
 [![PALS0039 Logo](https://www.phon.ucl.ac.uk/courses/pals0039/images/pals0039logo.png)](https://www.phon.ucl.ac.uk/courses/pals0039/)
 
-These pages contain learning resources for the course.
-
-To open one of these notebooks in Colaboratory or Binder, 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mhuckvale/pals0039/master)
+These pages contain learning resources and laboratory exercises for the module Introduction to Deep Learning for Speech and Language Processing, Division of PSychology and Language Sciences, University College London.
 
 # Tutorials
 
@@ -40,3 +36,8 @@ To open one of these notebooks in Colaboratory or Binder,
 * Exercise 8.2 - Sentence embedding encoder
 * Exercise 8.3 - Neural machine translation
 * Exercise 9.1 - Movie dialogue chatbot
+
+To open one of these notebooks in Colaboratory or Binder, 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mhuckvale/pals0039/master)
+
