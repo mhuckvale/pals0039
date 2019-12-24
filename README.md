@@ -2,18 +2,18 @@
 
 These pages contain learning resources and laboratory exercises for the module: Introduction to Deep Learning for Speech and Language Processing, delivered by Division of Psychology and Language Sciences, University College London.
 
-# Tutorials
+## Tutorials
 
-* Tutorial Python
+* [Tutorial Python](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_Python.ipynb)
 * Tutorial Numpy
 * Tutorial Matplotlib
 * Tutorial Pandas
 * Tutorial NLTK
 
-# Exercises
+## Exercises
 
 * [Exercise 1.1](https://github.com/mhuckvale/pals0039/blob/master/Exercise_1_1.ipynb) - Python language exercises
-* Exercise 1.2 - Numpy exercises
+* [Exercise 1.2](https://github.com/mhuckvale/pals0039/blob/master/Exercise_1_2.ipynb) - Numpy exercises
 * Exercise 1.3 - Matplotlib exercises
 * Exercise 2.1 - Pandas exercises
 * Exercise 2.2 - Regression problem
