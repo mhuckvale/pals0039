@@ -1,0 +1,23 @@
+name: pals0039
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.0.0=py35hd159220_0
+  - numpy-base=1.15.2=py35h8128ebf_0
+  - numpydoc=0.8.0=py35_0
+  - pandas=0.23.4=py35h830ac7b_0
+  - pandoc=2.2.3.2=0
+  - pandocfilters=1.4.2=py35_1
+  - pip=10.0.1=py35_0
+  - scikit-learn=0.20.0=py35heebcf9a_1
+  - scipy=1.1.0=py35h4f6bf74_1
+  - tensorflow=1.10.0=eigen_py35h38c8211_0
+  - tensorflow-base=1.10.0=eigen_py35h45df0d8_0
+  - urllib3=1.23=py35_0
+  - pip:
+    - h5py==2.8.0
+    - keras==2.2.4
+    - keras-applications==1.0.6
+    - keras-preprocessing==1.0.5
+    - numpy==1.15.4
+
