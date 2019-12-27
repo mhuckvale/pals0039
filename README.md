@@ -10,7 +10,7 @@ All materials (c) 2020 Mark Huckvale
 * [Tutorial Numpy](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_Numpy.ipynb)
 * [Tutorial Matplotlib](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_Matplotlib.ipynb)
 * [Tutorial Pandas](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_Pandas.ipynb)
-* Tutorial NLTK
+* [Tutorial NLTK](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_NLTK.ipynb)
 
 ## Exercises
 
