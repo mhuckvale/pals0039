@@ -12,6 +12,12 @@ All materials (c) 2020 Mark Huckvale
 * [Tutorial Pandas](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_Pandas.ipynb)
 * [Tutorial NLTK](https://github.com/mhuckvale/pals0039/blob/master/Tutorial_NLTK.ipynb)
 
+## Demonstrations
+
+* [RNN Demo](https://github.com/mhuckvale/pals0039/blob/master/Demo_RNN.ipynb) - Demonstration of Recurrent Neural Networks
+* [LM Demo](https://github.com/mhuckvale/pals0039/blob/master/Demo_LM.ipynb) - Demonstration of Language Modelling
+* [Seq2Seq Demo](https://github.com/mhuckvale/pals0039/blob/master/Demo_Seq2Seq.ipynb) - Demonstration of Sequence-to-sequence processing
+
 ## Exercises
 
 * [Exercise 1.1](https://github.com/mhuckvale/pals0039/blob/master/Exercise_1_1.ipynb) - Python language exercises
